@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\mithi\\.gradle\\daemon\\7.3.3\\com.cs.csnotes.app-mergeDebugResources-31:\\layout\\activity_fifthunit.xml",
+        "source": "C:\\Users\\mithi\\.gradle\\daemon\\7.3.3\\com.cs.csnotes.app-main-34:\\layout\\activity_fifthunit.xml"
+    },
+    {
+        "merged": "C:\\Users\\mithi\\.gradle\\daemon\\7.3.3\\com.cs.csnotes.app-mergeDebugResources-31:\\layout\\activity_firstunit.xml",
+        "source": "C:\\Users\\mithi\\.gradle\\daemon\\7.3.3\\com.cs.csnotes.app-main-34:\\layout\\activity_firstunit.xml"
+    },
+    {
+        "merged": "C:\\Users\\mithi\\.gradle\\daemon\\7.3.3\\com.cs.csnotes.app-mergeDebugResources-31:\\layout\\activity_notes.xml",
+        "source": "C:\\Users\\mithi\\.gradle\\daemon\\7.3.3\\com.cs.csnotes.app-main-34:\\layout\\activity_notes.xml"
+    },
+    {
+        "merged": "C:\\Users\\mithi\\.gradle\\daemon\\7.3.3\\com.cs.csnotes.app-mergeDebugResources-31:\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\mithi\\.gradle\\daemon\\7.3.3\\com.cs.csnotes.app-main-34:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\mithi\\.gradle\\daemon\\7.3.3\\com.cs.csnotes.app-mergeDebugResources-31:\\layout\\activity_assignment1.xml",
+        "source": "C:\\Users\\mithi\\.gradle\\daemon\\7.3.3\\com.cs.csnotes.app-main-34:\\layout\\activity_assignment1.xml"
+    },
+    {
+        "merged": "C:\\Users\\mithi\\.gradle\\daemon\\7.3.3\\com.cs.csnotes.app-mergeDebugResources-31:\\layout\\activity_assignment.xml",
+        "source": "C:\\Users\\mithi\\.gradle\\daemon\\7.3.3\\com.cs.csnotes.app-main-34:\\layout\\activity_assignment.xml"
+    },
+    {
+        "merged": "C:\\Users\\mithi\\.gradle\\daemon\\7.3.3\\com.cs.csnotes.app-mergeDebugResources-31:\\layout\\activity_syllabus.xml",
+        "source": "C:\\Users\\mithi\\.gradle\\daemon\\7.3.3\\com.cs.csnotes.app-main-34:\\layout\\activity_syllabus.xml"
+    },
+    {
+        "merged": "C:\\Users\\mithi\\.gradle\\daemon\\7.3.3\\com.cs.csnotes.app-mergeDebugResources-31:\\layout\\activity_about.xml",
+        "source": "C:\\Users\\mithi\\.gradle\\daemon\\7.3.3\\com.cs.csnotes.app-main-34:\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\mithi\\.gradle\\daemon\\7.3.3\\com.cs.csnotes.app-mergeDebugResources-31:\\layout\\activity_fourthunit.xml",
+        "source": "C:\\Users\\mithi\\.gradle\\daemon\\7.3.3\\com.cs.csnotes.app-main-34:\\layout\\activity_fourthunit.xml"
+    },
+    {
+        "merged": "com.cs.csnotes.app-mergeDebugResources-31:/layout/activity_resources.xml",
+        "source": "com.cs.csnotes.app-main-34:/layout/activity_resources.xml"
+    },
+    {
+        "merged": "C:\\Users\\mithi\\.gradle\\daemon\\7.3.3\\com.cs.csnotes.app-mergeDebugResources-31:\\layout\\activity_thirdunit.xml",
+        "source": "C:\\Users\\mithi\\.gradle\\daemon\\7.3.3\\com.cs.csnotes.app-main-34:\\layout\\activity_thirdunit.xml"
+    },
+    {
+        "merged": "C:\\Users\\mithi\\.gradle\\daemon\\7.3.3\\com.cs.csnotes.app-mergeDebugResources-31:\\layout\\activity_assignment2.xml",
+        "source": "C:\\Users\\mithi\\.gradle\\daemon\\7.3.3\\com.cs.csnotes.app-main-34:\\layout\\activity_assignment2.xml"
+    },
+    {
+        "merged": "C:\\Users\\mithi\\.gradle\\daemon\\7.3.3\\com.cs.csnotes.app-mergeDebugResources-31:\\layout\\activity_resources.xml",
+        "source": "C:\\Users\\mithi\\.gradle\\daemon\\7.3.3\\com.cs.csnotes.app-main-34:\\layout\\activity_resources.xml"
+    },
+    {
+        "merged": "C:\\Users\\mithi\\.gradle\\daemon\\7.3.3\\com.cs.csnotes.app-mergeDebugResources-31:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\mithi\\.gradle\\daemon\\7.3.3\\com.cs.csnotes.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mithi\\.gradle\\daemon\\7.3.3\\com.cs.csnotes.app-mergeDebugResources-31:\\layout\\activity_secondunit.xml",
+        "source": "C:\\Users\\mithi\\.gradle\\daemon\\7.3.3\\com.cs.csnotes.app-main-34:\\layout\\activity_secondunit.xml"
+    }
+]
